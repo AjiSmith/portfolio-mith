@@ -109,7 +109,7 @@ export default function Contact() {
               <div className="w-20 h-20 rounded-full p-[2.5px] bg-gradient-to-tr from-[#f9ce34] via-[#ee2a7b] to-[#6228d7]">
                 <div className="w-full h-full rounded-full bg-black p-[2px]">
                   <img 
-                    src="src/assets/pfp.jpg" 
+                    src="/pfp.jpg" 
                     alt="Instagram Profile Pic" 
                     className="w-full h-full object-cover rounded-full filter grayscale"
                   />
