@@ -110,7 +110,7 @@ export default function About() {
           >
             <div className="w-[200px] h-[200px] xs:w-[240px] xs:h-[240px] sm:w-[280px] sm:h-[280px] rounded-full overflow-hidden border-2 border-[#262626] bg-[#111111] relative shadow-2xl">
               <img
-                src="src/assets/pfp.jpg"
+                src="/pfp.jpg"
                 alt="Azimas Perwata Saputra Profile Mobile"
                 className="w-full h-full object-cover filter grayscale contrast-125 brightness-90"
               />
@@ -249,7 +249,7 @@ export default function About() {
 
           <div className="w-[400px] h-[400px] rounded-full overflow-hidden border-2 border-[#262626] bg-[#111111] relative shadow-2xl transition-colors duration-500 group-hover:border-neutral-500">
             <img
-              src="src/assets/pfp.jpg"
+              src="/pfp.jpg"
               alt="Azimas Perwata Saputra Profile Desktop"
               className="w-full h-full object-cover filter grayscale contrast-125 brightness-90 transition-transform duration-700 ease-out group-hover:scale-105"
             />
