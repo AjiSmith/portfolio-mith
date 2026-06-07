@@ -204,7 +204,7 @@ export default function Home() {
                                 <div className="w-10 h-2.5 bg-[#0d0d0d] rounded-full mt-1 opacity-90" />
                                 <div className="w-full h-[260px] bg-black rounded-[8px] overflow-hidden border border-neutral-300 relative mt-3">
                                     <img
-                                        src="src/assets/pfp.jpg"
+                                        src="/pfp.jpg"
                                         alt="Developer Avatar"
                                         className="w-full h-full object-cover filter grayscale contrast-125 brightness-90"
                                     />
