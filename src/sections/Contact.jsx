@@ -3,7 +3,7 @@ import { Link2, Check } from 'lucide-react';
 import { useState } from 'react';
 
 const WHATSAPP_NUMBER = '6289687130200';
-const WHATSAPP_MESSAGE = 'Hi Azimas, I found you through your portfolio!';
+const WHATSAPP_MESSAGE = '[ENTER YOUR MESSAGE]';
 
 const CONTACTS = [
   {
